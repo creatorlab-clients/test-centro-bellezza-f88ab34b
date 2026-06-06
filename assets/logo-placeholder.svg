@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" fill="#FAF5F1" rx="8"/>
+  <text x="120" y="34" text-anchor="middle"
+        font-family="DM Serif Display, Georgia, serif"
+        font-style="italic"
+        font-size="22"
+        fill="#2B1F1C"
+        letter-spacing="0.5">Centro Bellezza</text>
+  <text x="120" y="54" text-anchor="middle"
+        font-family="DM Sans, Helvetica, sans-serif"
+        font-size="9"
+        font-weight="600"
+        letter-spacing="3"
+        fill="#8E7C76"
+        text-transform="uppercase">ESTÉTICA &amp; BEM-ESTAR</text>
+  <line x1="40" y1="62" x2="200" y2="62" stroke="#C7A9A0" stroke-width="0.5" opacity="0.6"/>
+</svg>
